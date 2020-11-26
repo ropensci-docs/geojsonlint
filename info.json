@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "209b5e35ddcb61c08933bc8fa8b59188313c4768",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2020-11-26 05:31:43",
+    "files": 2,
+    "merge": false,
+    "message": "use gh actions badge\n"
+  },
+  "remote": "https://github.com/ropensci/geojsonlint",
+  "pkg": "geojsonlint"
+}

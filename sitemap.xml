@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/geojsonlint/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/geojsonlint/reference/as.location.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/geojsonlint/reference/canada_cities.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/geojsonlint/reference/geojson_hint.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/geojsonlint/reference/geojson_lint-defunct.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/geojsonlint/reference/geojson_validate.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/geojsonlint/reference/geojsonlint-package.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/geojsonlint/reference/gj_write.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/geojsonlint/reference/states.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/geojsonlint/reference/us_cities.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/geojsonlint/articles/geojsonlint.html</loc>
+  </url>
+</urlset>

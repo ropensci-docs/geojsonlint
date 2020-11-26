@@ -1,0 +1,10 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  geojsonlint: geojsonlint.html
+last_built: 2021-07-12T08:05Z
+urls:
+  reference: https://docs.ropensci.org/geojsonlint/reference
+  article: https://docs.ropensci.org/geojsonlint/articles
+
